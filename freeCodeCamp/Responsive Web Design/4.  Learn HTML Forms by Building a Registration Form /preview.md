@@ -1,0 +1,1 @@
+![Registration Form](image.png)
